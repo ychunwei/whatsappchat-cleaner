@@ -7,4 +7,4 @@ Run the following Python files in the following order:
 3. mytagdelete.py
 4. otherstagdelete.py
 5. combine.py
-6. mediaomit.py
+
